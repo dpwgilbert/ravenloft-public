@@ -1,5 +1,5 @@
 ---
-title: Fabulous Mystical Prophecies (feat. Combat Guy)
+title: Fabulous Mystical Prophecies
 draft: false
 tags:
   - Category/Group
@@ -28,7 +28,7 @@ benefits:
     reward: What do they get at level 3?
 ---
 
-![[FMPlogo.png|400]]
+![[public/assets/FMPlogo.png|400]]
 
 # People
 
