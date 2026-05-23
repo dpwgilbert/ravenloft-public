@@ -28,7 +28,7 @@ benefits:
     reward: What do they get at level 3?
 ---
 
-![[public/assets/FMPlogo.png|400]]
+![[../assets/FMPlogo.png|400]]
 
 # People
 
