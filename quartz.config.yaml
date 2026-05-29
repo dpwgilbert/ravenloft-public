@@ -17,7 +17,7 @@ configuration:
     cdnCaching: true
     typography:
       header: Draconis, Schibsted Grotesk
-      body: Bookerly, Source Sans Pro
+      body: Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
