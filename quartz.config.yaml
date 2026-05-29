@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Draconis
-      body: Bookerly
+      header: Draconis, Schibsted Grotesk
+      body: Bookerly, Source Sans Pro
       code: IBM Plex Mono
     colors:
       lightMode:
