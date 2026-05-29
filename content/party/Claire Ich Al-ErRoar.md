@@ -53,7 +53,7 @@ image: claire ich al-ErRoar.jpeg
 ![[Claire Ich Al-ErRoar.jpeg|right lp|300]]
 # Description
 
-This is the persons description. 
+This is the persons description.
 
 # Inventory
 The following items belong to `= this.file.name`.
