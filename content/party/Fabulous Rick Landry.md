@@ -50,7 +50,7 @@ obsidianUIMode: preview
 MyContainer:
 image: FabulousRickLandry.png
 ---
-![[content/assets/players/FabulousRickLandry.png|right lp|400]]
+![[public/assets/players/fabulousricklandry.png|right lp|400]]
 # Description
 
 This is the persons description. 
