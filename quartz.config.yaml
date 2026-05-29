@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: Ravenloft
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
-      body: Source Sans Pro
+      header: Draconis, Schibsted Grotesk
+      body: EB Garamond
       code: IBM Plex Mono
     colors:
       lightMode:
@@ -263,8 +263,7 @@ plugins:
       subdir: plugin
     enabled: true
     options:
-      theme: its-theme
-      variation: ttrpg-dnd
+      theme: its-theme.ttrpg-wotc
 layout:
   groups:
     toolbar:
