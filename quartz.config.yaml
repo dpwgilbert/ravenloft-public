@@ -16,7 +16,7 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Schibsted Grotesk
+      header: Draconis, Schibsted Grotesk
       body: EB Garamond
       code: IBM Plex Mono
     colors:
