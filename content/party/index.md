@@ -45,17 +45,18 @@ views:
       - Class
       - char_race
       - pasperc
-      - darkvision
       - Resistances
       - char_phobia
+      - darkvision
     sort:
       - property: level
         direction: ASC
     columnSize:
       file.name: 167
-      note.level: 87
+      note.level: 101
       note.Class: 93
       note.pasperc: 159
-      note.darkvision: 130
+      note.char_phobia: 284
+      note.darkvision: 168
 
 ```

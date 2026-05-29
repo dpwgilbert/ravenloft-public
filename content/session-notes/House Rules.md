@@ -3,20 +3,18 @@ title: House Rules
 draft: false
 tags:
 ---
-
-## General
+# General
 
 - Drinking a healing potion as an action applies the maximum possible healing.
 - Crying is a free action
 
-
-## Homebrew Spell Effects
+# Homebrew Spell Effects
 
 In order to have your characters sheets more accurately reflect whatever spells/benefits you have enabled that aren't already baked into your character sheet, I will create homebrew items that you can equip to apply the effect. 
 
 I would suggest adding a Pouch to your inventory and naming it: "✨ Effects ✨" to hold and easily access these items.
 
-### List of Effect Items
+## List of Effect Items
 
 - [Emboldening Bond](https://www.dndbeyond.com/magic-items/10859378-emboldening-bond)
 - [Fiery Feast](https://www.dndbeyond.com/magic-items/10500087-fiery-feast)
@@ -25,12 +23,12 @@ I would suggest adding a Pouch to your inventory and naming it: "✨ Effects ✨
 - [Shield of Faith](https://www.dndbeyond.com/magic-items/11259871-shield-of-faith)
 - [Warding Bond](https://www.dndbeyond.com/magic-items/11351853-warding-bond)
 
-If there are any items that you might need that aren't included, please let me know and I'll create one.
+If there are any items that you might need that aren't included, please let me know and I'll create them.
 
 
-## Character Creation
+# Character Creation
 
-### Initial Stats
+## Initial Stats
 
 Rolling for stats:
 - Best 3 of 4d6 for an attribute
@@ -40,7 +38,7 @@ Rolling for stats:
 At the DMs discretion, cripplingly bad stats can be replaced with a standard point buy.
 Any backup characters (should they be required) have the choice of using the same stats as the recently deceased or may be set using point buy.
 
-### Background
+## Background
 Try and pick a background that fits the setting. Any source is allowed.
 
 If taking the Haunted One (5e) background from CoS, select one of the following Origin feats (whichever best fits your backstory) to supplement the background:
@@ -50,7 +48,7 @@ If taking the Haunted One (5e) background from CoS, select one of the following 
 - I Hid from the Terror (CbT)
 - I Survived to Tell the Tale (CbT)
 
-### Phobias
+## Phobias
 Curse of Strahd is a gothic horror campaign. And what would a horror themed game be without fear?
 
 At one point in their lives, your character developed a phobia, an anxiety driven fear that borders on the irrational. How or why your character developed this fear is up to you. Your character has a very difficult time dealing with this particular source of anxiety and will avoid situations that might force them to face their fear.

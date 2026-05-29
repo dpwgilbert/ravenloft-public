@@ -52,20 +52,10 @@ obsidianUIMode: preview
 MyContainer:
 image: Zavran.png
 ---
-
-![[Zavran.png|300]]
-
+![[Zavran.png|right lp|400]]
 # Description
 
 This is the persons description. 
-
-# Character Sheet
-
-%% CONTENTS OF THE CUSTOM FRAME CAN BE SET IN THE CUSTOM FRAME PLUGIN SETTINGS %%
-```custom-frames
-frame: DDB-Zavran
-style: height: 800px;
-```
 
 # Inventory
 The following items belong to `= this.file.name`.
@@ -81,6 +71,13 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
+
+# Character Sheet
+
+```custom-frames
+frame: DDB-Zavran
+style: height: 1070px;
+```
 
 # Relationships
 
@@ -124,8 +121,6 @@ dv.paragraph("```mermaid\nflowchart LR\n" +
   `class ${parents.length > 0 ? parents.map((_, index) => `P${index + 1},`).join('') : ''}Current${children.length > 0 ? children.map((_, index) => `C${index + 1},`).join('') : ''}${siblings.length > 0 ? siblings.map((_, index) => `S${index + 1},`).join('') : ''}${enemies.length > 0 ? enemies.map((_, index) => `E${index + 1},`).join('') : ''}${allies.length > 0 ? allies.map((_, index) => `A${index + 1},`).join('') : ''} internal-link;`
 )
 ```
-%% CODE ABOVE CREATED WITH CHAT-GPT. ITS COMPLEX CODE THAT SHOULD NOT BE CHANGED UNLESS YOU KNOW WHAT YOU ARE DOING %%
-%% MERMAID-FIX-TEXT-CLIPPING.CSS is enabled in Settings > Appearance > CSS Snippets. This fixes text clipping and styles the boxes %%
 
 > [!NOTE]- Relationship Config - Enter name of People Notes
 > `BUTTON[button_person]` Nodes will link to notes of the same name. 

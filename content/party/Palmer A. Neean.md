@@ -50,23 +50,12 @@ obsidianUIMode: preview
 MyContainer:
 image: PalmerANeean.jpg
 ---
-
-![[PalmerANeean.jpg|300]]
-
+![[PalmerANeean.jpg|right lp|400]]
 # Description
 
 This is the persons description. 
 
-# Character Sheet
-
-%% CONTENTS OF THE CUSTOM FRAME CAN BE SET IN THE CUSTOM FRAME PLUGIN SETTINGS %%
-```custom-frames
-frame: DDB-Palmer
-style: height: 800px;
-```
-
 # Inventory
-
 The following items belong to `= this.file.name`.
 
 Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
@@ -81,6 +70,12 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
 
+# Character Sheet
+
+```custom-frames
+frame: DDB-Palmer
+style: height: 1070px;
+```
 
 # Relationships
 

@@ -28,7 +28,7 @@ benefits:
     reward: What do they get at level 3?
 ---
 
-![[../assets/FMPlogo.png|400]]
+![[../assets/FMPlogo.png|center lp|400]]
 
 # People
 
@@ -44,10 +44,16 @@ properties:
     displayName: Race
   note.char_gender:
     displayName: Gender
-  note.char_age:
-    displayName: Age
+  note.pasperc:
+    displayName: Passive Perception
   note.group_standing:
-	displayName: Group Standing
+    displayName: Group Standing
+  note.char_phobia:
+    displayName: Phobia
+  note.PlayerKnownLanguages:
+    displayName: Known Languages
+  note.darkvision:
+    displayName: Darkvision (ft)
 views:
   - type: cards
     name: Group Members - Cards
@@ -57,9 +63,12 @@ views:
         - list(Connected_Groups).contains(this)
     order:
       - file.name
-      - char_age
-      - char_gender
       - char_race
+      - Class
+      - darkvision
+      - pasperc
+      - PlayerKnownLanguages
+      - char_phobia
       - group_standing
     sort:
       - property: group_standing

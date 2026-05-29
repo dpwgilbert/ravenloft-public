@@ -45,20 +45,13 @@ obsidianUIMode: preview
 MyContainer:
 image: Specimen-88.jpeg
 ---
-![[Specimen-88.jpeg|300]]
+![[Specimen-88.jpeg|right lp|400]]
 # Description
 
 This is the persons description. 
 
-# Character Sheet
-
-%% CONTENTS OF THE CUSTOM FRAME CAN BE SET IN THE CUSTOM FRAME PLUGIN SETTINGS %%
-```custom-frames
-frame: DDB-Goliath
-style: height: 800px;
-```
-
 # Inventory
+The following items belong to `= this.file.name`.
 
 Items: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):char_items]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
@@ -71,6 +64,13 @@ Quests: `INPUT[inlineListSuggester(optionQuery(#Category/Quest)):Connected_Quest
 
 Groups: `INPUT[inlineListSuggester(optionQuery(#Category/Group)):Connected_Groups]`
 %% DISPLAYS NOTES THAT MATCH THE TAGS ABOVE %%
+
+# Character Sheet
+
+```custom-frames
+frame: DDB-Goliath
+style: height: 1070px;
+```
 
 # Relationships
 
