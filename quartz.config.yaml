@@ -264,8 +264,7 @@ plugins:
     enabled: true
     options:
       theme: its-theme
-      variation: ttrpg-wotc
-      mode: both
+      variation: ttrpg-dnd
 layout:
   groups:
     toolbar:
