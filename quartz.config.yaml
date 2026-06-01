@@ -16,8 +16,8 @@ configuration:
     fontOrigin: googleFonts
     cdnCaching: true
     typography:
-      header: Draconis,Schibsted Grotesk
-      body: Source Sans Pro
+      header: Oswald
+      body: EB Garamond
       code: IBM Plex Mono
     colors:
       lightMode:
