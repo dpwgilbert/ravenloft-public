@@ -4,8 +4,8 @@ aliases:
   - MGG
 title: Fabulous Rick Landry
 created: 2026-05-22T09:55:52.186-04:00
-modified: 2026-06-02T03:04:48.679-04:00
-published: 2026-06-02T03:04:48.679-04:00
+modified: 2026-06-02T03:32:29.179-04:00
+published: 2026-06-02T03:32:29.179-04:00
 tags:
   - Category/Player
 socialImage: FabulousRickLandry.png
@@ -48,7 +48,7 @@ image: FabulousRickLandry.png
 token: token-FabulousRickLandry.png
 ---
 
-![[content/assets/players/FabulousRickLandry.png]]
+![[content/assets/players/FabulousRickLandry.png|400]]
 
 # Description
 

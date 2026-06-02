@@ -4,8 +4,8 @@ aliases:
   - Blake
 title: Specimen - 88
 created: 2026-05-29T08:51:00.328-04:00
-modified: 2026-06-02T03:05:33.108-04:00
-published: 2026-06-02T03:05:33.108-04:00
+modified: 2026-06-02T03:32:50.125-04:00
+published: 2026-06-02T03:32:50.125-04:00
 tags:
   - Category/Player
 socialImage: Specimen-88.jpeg
@@ -43,7 +43,7 @@ image: Specimen-88.jpeg
 token: token-Specimen-88.png
 ---
 
-![[content/assets/players/Specimen-88.jpeg]]
+![[content/assets/players/Specimen-88.jpeg|400]]
 
 # Description
 
