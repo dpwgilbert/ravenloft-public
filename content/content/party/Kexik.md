@@ -4,8 +4,8 @@ aliases:
   - Janes
 title: Kexik
 created: 2026-05-29T08:50:56.444-04:00
-modified: 2026-06-02T02:58:33.323-04:00
-published: 2026-06-02T02:58:33.323-04:00
+modified: 2026-06-02T03:05:04.995-04:00
+published: 2026-06-02T03:05:04.995-04:00
 tags:
   - Category/Player
 socialImage: Kexik.jpg
@@ -48,7 +48,7 @@ image: Kexik.jpg
 token: token-Kexik.png
 ---
 
-![[public/assets/players/kexik.jpg]]
+![[content/assets/players/Kexik.jpg]]
 
 # Description
 
