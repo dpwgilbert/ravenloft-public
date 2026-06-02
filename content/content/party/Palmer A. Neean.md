@@ -4,8 +4,8 @@ aliases:
   - Paul
 title: Palmer A. Neean
 created: 2026-05-29T08:50:58.826-04:00
-modified: 2026-06-02T02:07:24.684-04:00
-published: 2026-06-02T02:07:24.684-04:00
+modified: 2026-06-02T02:51:59.283-04:00
+published: 2026-06-02T02:51:59.283-04:00
 tags:
   - Category/Player
 socialImage: palmeraneean.jpg
@@ -47,7 +47,7 @@ image: palmeraneean.jpg
 token: token-PalmerANeean.png
 ---
 
-<img src="../assets/players/palmeraneean.jpg" style="float: right;max-width:400px" alt="Palmer A. Neean portrait" />
+<img src="../assets/players/palmeraneean.jpg" style="float: right;max-width:400px;margin-left:20px" alt="Palmer A. Neean portrait" />
 # Description
 
 This is the persons description.
