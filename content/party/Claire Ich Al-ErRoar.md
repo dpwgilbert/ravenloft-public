@@ -4,8 +4,8 @@ aliases:
   - Al
 title: Claire Ich Al-ErRoar
 created: 2026-05-22T09:55:45.055-04:00
-modified: 2026-06-01T12:55:56.308-04:00
-published: 2026-06-01T12:55:56.308-04:00
+modified: 2026-06-01T23:20:23.574-04:00
+published: 2026-06-01T23:20:23.574-04:00
 tags:
   - Category/Player
 socialImage: claire ich al-ErRoar.jpeg
@@ -57,7 +57,7 @@ image: claire ich al-ErRoar.jpeg
 token: token-ClaireIchAl-ErRoar.png
 ---
 
-![[assets/players/Claire Ich Al-ErRoar.jpeg|right lp|300]]
+![[public/assets/players/claire-ich-al-erroar.jpeg|right lp|300]]
 
 # Description
 
