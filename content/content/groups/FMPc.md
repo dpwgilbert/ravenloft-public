@@ -2,8 +2,8 @@
 publish: true
 title: Fabulous Mystical Prophecies
 created: 2026-05-29T08:49:42.464-04:00
-modified: 2026-06-01T12:57:04.114-04:00
-published: 2026-06-01T12:57:04.114-04:00
+modified: 2026-06-02T01:38:31.486-04:00
+published: 2026-06-02T01:38:31.486-04:00
 tags:
   - Category/Group
 socialImage: Template_Group_Placeholder.png
@@ -42,9 +42,7 @@ The following people are members of this group.
 ```base
 properties:
   file.name:
-    displayName: Star Systems Name
-  note.MyCategory:
-    displayName: Type of Star System
+    displayName: Group
   note.char_race:
     displayName: Race
   note.char_gender:
@@ -55,8 +53,6 @@ properties:
     displayName: Group Standing
   note.char_phobia:
     displayName: Phobia
-  note.PlayerKnownLanguages:
-    displayName: Known Languages
   note.darkvision:
     displayName: Darkvision (ft)
 views:
@@ -72,7 +68,7 @@ views:
       - Class
       - darkvision
       - pasperc
-      - PlayerKnownLanguages
+      - Languages
       - char_phobia
       - group_standing
     sort:
@@ -87,9 +83,7 @@ views:
         - list(Connected_Groups).contains(this)
     order:
       - file.name
-    sort:
-      - property: file.name
-        direction: DESC
+    sort: []
     columnSize:
       file.name: 182
 
