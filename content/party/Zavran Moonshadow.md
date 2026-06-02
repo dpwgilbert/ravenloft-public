@@ -4,8 +4,8 @@ aliases:
   - Dave
 title: Zavran Moonshadow
 created: 2026-05-29T08:51:02.065-04:00
-modified: 2026-06-02T01:51:42.198-04:00
-published: 2026-06-02T01:51:42.198-04:00
+modified: 2026-06-02T01:53:59.395-04:00
+published: 2026-06-02T01:53:59.395-04:00
 tags:
   - Category/Player
 socialImage: Zavran.png
@@ -48,10 +48,7 @@ image: Zavran.png
 token: token-ZavanMoonshadow.png
 ---
 
-```
 <img src="../assets/players/zavran.png" style="float: right;max-width:400px" alt="Zavran Moonshadow portrait" />
-```
-
 # Description
 
 This is the persons description.
