@@ -44,7 +44,7 @@ allies:
   - Palmer A. Neean
   - Zavran Moonshadow
 obsidianUIMode: preview
-image: claire-ich-al-erroar.jpeg
+image: claireichalerroar.jpeg
 token: token-ClaireIchAl-ErRoar.png
 ---
 
