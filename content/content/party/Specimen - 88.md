@@ -4,8 +4,8 @@ aliases:
   - Blake
 title: Specimen - 88
 created: 2026-05-29T08:51:00.328-04:00
-modified: 2026-06-02T02:51:54.685-04:00
-published: 2026-06-02T02:51:54.685-04:00
+modified: 2026-06-02T02:59:15.489-04:00
+published: 2026-06-02T02:59:15.489-04:00
 tags:
   - Category/Player
 socialImage: Specimen-88.jpeg
@@ -43,7 +43,8 @@ image: Specimen-88.jpeg
 token: token-Specimen-88.png
 ---
 
-<img src="../assets/players/specimen-88.jpeg" style="float: right;max-width:400px;margin-left:20px" alt="Specimen-88 portrait" />
+![[public/assets/players/palmeraneean.jpg]]
+
 # Description
 
 This is the persons description.
@@ -53,8 +54,6 @@ This is the persons description.
 The following items belong to Specimen - 88.
 
 # Connections
-
-Is the person linked to any groups or quests?
 
 ## Groups
 
