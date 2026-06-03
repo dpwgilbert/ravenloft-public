@@ -2,9 +2,8 @@
 publish: true
 title: The Party
 created: 2026-05-29T08:50:54.791-04:00
-modified: 2026-06-01T12:55:42.347-04:00
-published: 2026-06-01T12:55:42.347-04:00
-draft: false
+modified: 2026-06-02T08:23:00.412-04:00
+published: 2026-06-02T08:23:00.412-04:00
 banner: content/assets/banners/group-of-characters-standing-by-a-camp-fire-image_2874370.png
 banner-display: cover
 banner-height: 350

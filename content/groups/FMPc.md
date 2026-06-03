@@ -2,8 +2,8 @@
 publish: true
 title: Fabulous Mystical Prophecies
 created: 2026-05-29T08:49:42.464-04:00
-modified: 2026-06-02T01:38:31.486-04:00
-published: 2026-06-02T01:38:31.486-04:00
+modified: 2026-06-02T08:16:08.331-04:00
+published: 2026-06-02T08:16:08.331-04:00
 tags:
   - Category/Group
 socialImage: Template_Group_Placeholder.png
@@ -33,7 +33,7 @@ benefits:
     reward: What do they get at level 3?
 ---
 
-![[assets/FMPlogo.png|center lp|400]]
+![[content/assets/FMPlogo.png|400]]
 
 # People
 
@@ -60,16 +60,16 @@ views:
     name: Group Members - Cards
     filters:
       and:
-        - file.folder == "content/party"
         - list(Connected_Groups).contains(this)
     order:
       - file.name
       - char_race
       - Class
-      - darkvision
       - pasperc
-      - Languages
+      - Resistances
       - char_phobia
+      - Languages
+      - darkvision
       - group_standing
     sort:
       - property: group_standing
@@ -79,10 +79,17 @@ views:
     name: Group Members - Table
     filters:
       and:
-        - file.folder == "party"
         - list(Connected_Groups).contains(this)
     order:
       - file.name
+      - char_race
+      - Class
+      - pasperc
+      - Resistances
+      - char_phobia
+      - Languages
+      - darkvision
+      - group_standing
     sort: []
     columnSize:
       file.name: 182
@@ -144,92 +151,3 @@ Romance! Magic! Danger!\
 POSSIBLY DEATH!”
 
 Attendance was never better, with their next act ahead – Daggerford!
-
-# Goals
-
-> [!NOTE]+ Public Goals
->
-> - Achieve This
-> - Achieve That
-
-> [!NOTE]- Private Goals
->
-> - Achieve This
-> - Achieve That
-
-# Hierarchy
-
-````dataviewjs
-// 1) Grab your frontmatter arrays
-const leader    = dv.current().leader    ?? null;
-const officers  = dv.current().officers  ?? [];
-const members   = dv.current().members   ?? [];
-const initiates = dv.current().initiates ?? [];
-
-// 2) Render the Mermaid diagram
-dv.paragraph(
-  "```mermaid\nflowchart LR\n" +
-
-  // Leader node
-  (leader
-    ? `L[${leader}]:::internal-link\n`
-    : "") +
-
-  // Officers group
-  (officers.length > 0
-    ? `OG[Officers]\nL --> OG\n` +
-      officers.map((o,i) =>
-        `O${i+1}[${o}]:::internal-link\nOG --> O${i+1}\n`
-      ).join("")
-    : "") +
-
-  // Members group
-  (members.length > 0
-    ? `MG[Members]\n${officers.length ? "OG" : "L"} --> MG\n` +
-      members.map((m,i) =>
-        `M${i+1}[${m}]:::internal-link\nMG --> M${i+1}\n`
-      ).join("")
-    : "") +
-
-  // Initiates group
-  (initiates.length > 0
-    ? `IG[Initiates]\n${members.length ? "MG" : (officers.length ? "OG" : "L")} --> IG\n` +
-      initiates.map((n,i) =>
-        `I${i+1}[${n}]:::internal-link\nIG --> I${i+1}\n`
-      ).join("")
-    : "") +
-
-  "```"
-)
-````
-
-> [!NOTE]- Relationship Config - Enter name of People Notes
-> | Leader    | Officers    |
-> | --- | --- |
-> | `INPUT[list:leader]`    | `INPUT[list:officers]`    |
->
-> | Members    | Initiates    |
-> | --- | --- |
-> | `INPUT[list:members]`    | `INPUT[list:initiates]`    |
-
-# Enemies/Allies
-
-**Enemies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyEnemies]`
-
-**Allies:** `INPUT[inlineListSuggester(optionQuery(#Category/Group),optionQuery(#Category/People)):MyAllies]`
-
-# Services
-
-Services offered.
-
-> [!NOTE]+ Public Services
-> | Item   | Cost | Weight |
-> | ------ | ---- | ------ |
-> | Service 1 | 1gp  | L      |
-> | Service 2 | 1cp  | -      |
-
-> [!NOTE]- Member Services
-> | Item   | Cost | Weight |
-> | ------ | ---- | ------ |
-> | Service 1 | 1gp  | L      |
-> | Service 2 | 1cp  | -      |
