@@ -2,8 +2,8 @@
 publish: true
 title: Short Notice
 created: 2026-06-04T15:06:29.555-04:00
-modified: 2026-06-04T15:59:26.964-04:00
-published: 2026-06-04T15:59:26.964-04:00
+modified: 2026-06-04T16:38:59.900-04:00
+published: 2026-06-04T16:38:59.900-04:00
 banner: content/assets/banners/group-of-characters-standing-by-a-camp-fire-image_2874370.png
 banner-display: cover
 banner-height: 350
@@ -39,7 +39,6 @@ views:
     name: Table
     filters:
       and:
-        - file.folder == "content/party"
         - file.tags.contains("Category/Player")
         - Status != "Inactive"
     order:

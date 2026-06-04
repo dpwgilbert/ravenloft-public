@@ -1,10 +1,9 @@
 ---
 publish: true
-permalink: /groups/fmpc
 title: Fabulous Mystical Prophecies
 created: 2026-06-04T15:06:29.550-04:00
-modified: 2026-06-04T16:25:09.411-04:00
-published: 2026-06-04T16:25:09.411-04:00
+modified: 2026-06-04T16:38:41.864-04:00
+published: 2026-06-04T16:38:41.864-04:00
 tags:
   - Category/Group
 socialImage: Template_Group_Placeholder.png
@@ -23,9 +22,10 @@ initiates:
 faction: Fabulous Mystical Prophecies
 primary_contact:
   - Fabulous Rick Landry
+permalink:
 ---
 
-![[content/assets/fmplogo.png|400]]
+![[assets/fmplogo.png|400]]
 
 # People
 
