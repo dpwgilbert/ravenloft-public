@@ -4,8 +4,8 @@ aliases:
   - Paul
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-06-04T10:12:13.957-04:00
-published: 2026-06-04T10:12:13.957-04:00
+modified: 2026-06-04T17:08:26.092-04:00
+published: 2026-06-04T17:08:26.092-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png
@@ -62,8 +62,6 @@ During his studies, though, a mysterious moment occurred, as a fateful encounter
 # Inventory
 
 The following items belong to Jerry Rig.
-
-- Verdant Treasure
 
 # Connections
 
