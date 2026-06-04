@@ -1,9 +1,6 @@
 ---
-publish: true
 title: The Party
-created: 2026-05-29T08:50:54.791-04:00
-modified: 2026-06-02T08:23:00.412-04:00
-published: 2026-06-02T08:23:00.412-04:00
+publish: true
 banner: content/assets/banners/group-of-characters-standing-by-a-camp-fire-image_2874370.png
 banner-display: cover
 banner-height: 350
@@ -41,6 +38,7 @@ views:
       and:
         - file.folder == "content/party"
         - file.tags.contains("Category/Player")
+        - Status != "Inactive"
     order:
       - file.name
       - Player

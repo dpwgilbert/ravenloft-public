@@ -1,4 +1,5 @@
 ---
+title: Claire Ich Al-ErRoar
 publish: true
 aliases:
   - Al
@@ -44,24 +45,22 @@ allies:
   - Palmer A. Neean
   - Zavran Moonshadow
 obsidianUIMode: preview
-image: claireichalerroar.jpeg
+image: ClaireIchAlErRoar.jpeg
 token: token-ClaireIchAl-ErRoar.png
 ---
 
-![[assets/players/ClaireIchAlErRoar.jpeg|300]]
+![[ClaireIchAlErRoar.jpeg|300]]
 
 # Description
 
 This is the persons description.
 
 # Inventory
-
-The following items belong to Claire Ich Al-ErRoar.
+The following items belong to `= this.file.name`.
 
 # Connections
 
 ## Groups
-
 - [[FMPc]]
 
 ## Quests
@@ -69,9 +68,10 @@ The following items belong to Claire Ich Al-ErRoar.
 # Relationships
 
 ## Allies
-
 - [[Fabulous Rick Landry]]
 - [[Kexik]]
 - [[Zavran Moonshadow]]
 
 ## Enemies
+
+

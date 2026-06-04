@@ -1,5 +1,6 @@
 ---
-publish: true
+title: Palmer A. Neean
+publish: false
 aliases:
   - Paul
 title: Palmer A. Neean
@@ -22,7 +23,7 @@ ac: 14
 modifier: 2
 pasperc: 15
 darkvision: 120
-Status: Active
+Status: Inactive
 Languages:
   - Common
   - Druidic
@@ -40,8 +41,8 @@ char_phobia: Acrophobia (Heights)
 allies:
   - Claire Ich Al-ErRoar
   - Fabulous Rick Landry
-  - Palmer A. Neean
   - Zavran Moonshadow
+  - Kexik
 obsidianUIMode: preview
 image: palmeraneean.jpg
 token: token-PalmerANeean.png
@@ -54,6 +55,7 @@ token: token-PalmerANeean.png
 This is the persons description.
 
 # Inventory
+The following items belong to `= this.file.name`.
 
 The following items belong to Palmer A. Neean.
 
@@ -68,3 +70,4 @@ The following items belong to Palmer A. Neean.
 ## Allies
 
 ## Enemies
+

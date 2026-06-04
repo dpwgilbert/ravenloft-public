@@ -1,9 +1,7 @@
 ---
 publish: true
 title: Fabulous Mystical Prophecies
-created: 2026-05-29T08:49:42.464-04:00
-modified: 2026-06-02T08:16:08.331-04:00
-published: 2026-06-02T08:16:08.331-04:00
+publish: true
 tags:
   - Category/Group
 socialImage: Template_Group_Placeholder.png
@@ -11,10 +9,8 @@ draft: false
 MyContainer:
   - "[[Barovia|Barovia]]"
 MyCategory: Artisan Guild
-image: Template_Group_Placeholder.png
+image: ../assets/FMPlogo.png
 obsidianUIMode: preview
-leader:
-officers:
 members:
   - Fabulous Rick Landry
   - Zavran Moonshadow
@@ -23,17 +19,11 @@ initiates:
   - Kexik
 faction: Fabulous Mystical Prophecies
 primary_contact:
-  - - Fabulous Rick Landry
-benefits:
-  - standing: 1
-    reward: What do they get at level 1?
-  - standing: 2
-    reward: What do they get at level 2?
-  - standing: 3
-    reward: What do they get at level 3?
+  - Fabulous Rick Landry
+permalink: /groups/fmpc
 ---
 
-![[content/assets/FMPlogo.png|400]]
+![[../assets/FMPlogo.png|400]]
 
 # People
 
@@ -90,7 +80,9 @@ views:
       - Languages
       - darkvision
       - group_standing
-    sort: []
+    sort:
+      - property: group_standing
+        direction: DESC
     columnSize:
       file.name: 182
 
@@ -151,3 +143,4 @@ Romance! Magic! Danger!\
 POSSIBLY DEATH!”
 
 Attendance was never better, with their next act ahead – Daggerford!
+
