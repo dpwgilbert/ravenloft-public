@@ -1,8 +1,8 @@
 ---
-title: Zavran Moonshadow
 publish: true
 aliases:
   - Dave
+title: Zavran Moonshadow
 created: 2026-05-29T08:51:02.065-04:00
 modified: 2026-06-02T03:32:56.782-04:00
 published: 2026-06-02T03:32:56.782-04:00
@@ -48,7 +48,7 @@ image: Zavran.png
 token: token-ZavanMoonshadow.png
 ---
 
-![[assets/players/Zavran.png|400]]
+![[public/assets/players/zavran.png|400]]
 
 # Description
 
@@ -61,6 +61,7 @@ The following items belong to Zavran Moonshadow.
 # Connections
 
 ## Groups
+
 - [[FMPc]]
 
 ## Quests
@@ -68,10 +69,9 @@ The following items belong to Zavran Moonshadow.
 # Relationships
 
 ## Allies
+
 - [[Claire Ich Al-ErRoar]]
 - [[Fabulous Rick Landry]]
 - [[Kexik]]
 
 ## Enemies
-
-

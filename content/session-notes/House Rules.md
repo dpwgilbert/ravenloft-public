@@ -1,10 +1,12 @@
 ---
 publish: true
 title: House Rules
-publish: true
-date: 2026-04-20
+created: 2026-04-20
+modified: 2026-06-04T16:26:42.369-04:00
+published: 2026-04-20
 tags:
   - journal
+date: 2026-04-20
 ---
 
 # General

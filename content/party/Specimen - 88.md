@@ -1,8 +1,8 @@
 ---
-title: Specimen - 88
 publish: true
 aliases:
   - Blake
+title: Specimen - 88
 created: 2026-05-29T08:51:00.328-04:00
 modified: 2026-06-02T03:32:50.125-04:00
 published: 2026-06-02T03:32:50.125-04:00
@@ -43,11 +43,11 @@ image: Specimen-88.jpeg
 token: token-Specimen-88.png
 ---
 
-![[assets/players/Specimen-88.jpeg|400]]
+![[public/assets/players/specimen-88.jpeg|400]]
 
 # Description
 
-As a product of grotesque experiments, 88 has no memory of his past and is seeking absolution for the atrocities performed on his body and mind. The time spend in cells and cages has left him forever traumatized against small spaces. 
+As a product of grotesque experiments, 88 has no memory of his past and is seeking absolution for the atrocities performed on his body and mind. The time spend in cells and cages has left him forever traumatized against small spaces.
 
 All that is certain is the answers lie somewhere in Borovia. After being cast aside as a failed result survival became the primary focus running in whatever wild packs he could, for a time.
 
@@ -66,5 +66,3 @@ The following items belong to Specimen - 88.
 ## Allies
 
 ## Enemies
-
-

@@ -1,5 +1,4 @@
 ---
-title: Fabulous Rick Landry
 publish: true
 aliases:
   - MGG
@@ -49,18 +48,20 @@ image: FabulousRickLandry.png
 token: token-FabulousRickLandry.png
 ---
 
-![[assets/players/FabulousRickLandry.png|400]]
+![[public/assets/players/fabulousricklandry.png|400]]
 
 # Description
 
 This is the persons description.
 
 # Inventory
-The following items belong to `= this.file.name`.
+
+The following items belong to Fabulous Rick Landry.
 
 # Connections
 
 ## Groups
+
 - [[FMPc]]
 
 ## Quests
@@ -68,10 +69,9 @@ The following items belong to `= this.file.name`.
 # Relationships
 
 ## Allies
+
 - [[Claire Ich Al-ErRoar]]
 - [[Kexik]]
 - [[Zavran Moonshadow]]
 
 ## Enemies
-
-

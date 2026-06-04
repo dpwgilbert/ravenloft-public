@@ -1,10 +1,14 @@
 ---
-title: Jerry Rig
 publish: true
 aliases:
   - Paul
+title: Jerry Rig
+created: 2026-06-02T03:32:44.301-04:00
+modified: 2026-06-04T10:12:13.957-04:00
+published: 2026-06-04T10:12:13.957-04:00
 tags:
   - Category/Player
+socialImage: JerryRig.png
 Player: Paul
 Role: Player
 Class:
@@ -41,28 +45,30 @@ image: JerryRig.png
 token: token-JerryRig.png
 ---
 
-![[JerryRig.png|400]]
+![[assets/players/JerryRig.png|400]]
 
 # Description
 
-Jerry was once a very middling tinkerer from the Forest gnome guild, working on what was once an idea of using electricity to power gadgetry, rather than the typical magical infusion. With his most loyal companion, his dog Greavard, always by his side, he would test out different inventions to prove his theories, though, with no real renown to his discoveries. 
+Jerry was once a very middling tinkerer from the Forest gnome guild, working on what was once an idea of using electricity to power gadgetry, rather than the typical magical infusion. With his most loyal companion, his dog Greavard, always by his side, he would test out different inventions to prove his theories, though, with no real renown to his discoveries.
 
-One terrible day, though, Jerry was attempting to try out a new flying machine. With Side car attached, Jerry hit the skies with his best pal Greavard, but disaster struck as the flying machine malfunctioned due to magical interference. Plummeting from the sky, Jerry's 'chute opened, allowing him to get out safely, but to his absolute horror, Greavards chute was caught in a branch, torn, and he fell to his end. As a result, Jerry is now terrified of leaving the ground, due to losing the only one he loved. 
+One terrible day, though, Jerry was attempting to try out a new flying machine. With Side car attached, Jerry hit the skies with his best pal Greavard, but disaster struck as the flying machine malfunctioned due to magical interference. Plummeting from the sky, Jerry's 'chute opened, allowing him to get out safely, but to his absolute horror, Greavards chute was caught in a branch, torn, and he fell to his end. As a result, Jerry is now terrified of leaving the ground, due to losing the only one he loved.
 
-Vowing he would put his knowledge to use, and, Jerry set out to find a way to bring his best boy back to his side, but needed a power source strong enough for his experiments. 
+Vowing he would put his knowledge to use, and, Jerry set out to find a way to bring his best boy back to his side, but needed a power source strong enough for his experiments.
 
-In his travels, Jerry happened upon a performance so powerful, he knew it would work, so he has been following the [[FMPc|troupe]] of the [[Fabulous Rick Landry]], in order to "Borrow" some of the equipment for his purposes. 
+In his travels, Jerry happened upon a performance so powerful, he knew it would work, so he has been following the [[FMPc|troupe]] of the [[Fabulous Rick Landry]], in order to "Borrow" some of the equipment for his purposes.
 
 During his studies, though, a mysterious moment occurred, as a fateful encounter left Jerry with a source of power that seems to hold power over life and death itself. Is this the key to it all?
 
 # Inventory
-The following items belong to `= this.file.name`.
+
+The following items belong to Jerry Rig.
 
 - Verdant Treasure
 
 # Connections
 
 ## Groups
+
 - [[FMPc]]
 
 ## Quests
@@ -72,4 +78,3 @@ The following items belong to `= this.file.name`.
 ## Allies
 
 ## Enemies
-

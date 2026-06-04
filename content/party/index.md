@@ -1,6 +1,9 @@
 ---
-title: The Party
 publish: true
+title: Short Notice
+created: 2026-06-04T15:06:29.555-04:00
+modified: 2026-06-04T15:59:26.964-04:00
+published: 2026-06-04T15:59:26.964-04:00
 banner: content/assets/banners/group-of-characters-standing-by-a-camp-fire-image_2874370.png
 banner-display: cover
 banner-height: 350
