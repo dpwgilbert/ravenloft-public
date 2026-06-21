@@ -65,4 +65,10 @@ The following items belong to Specimen - 88.
 
 ## Allies
 
+- [[Claire Ich Al-ErRoar]]
+- [[Fabulous Rick Landry]]
+- [[Kexik]]
+- [[Zavran Moonshadow]]
+- [[Jerry Rig]]
+
 ## Enemies

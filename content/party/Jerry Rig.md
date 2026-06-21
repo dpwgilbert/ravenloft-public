@@ -4,8 +4,8 @@ aliases:
   - Paul
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-06-04T17:08:26.092-04:00
-published: 2026-06-04T17:08:26.092-04:00
+modified: 2026-06-21T15:44:44.307-04:00
+published: 2026-06-21T15:44:44.307-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png
@@ -74,5 +74,11 @@ The following items belong to Jerry Rig.
 # Relationships
 
 ## Allies
+
+- [[Claire Ich Al-ErRoar]]
+- [[Fabulous Rick Landry]]
+- [[Kexik]]
+- [[Zavran Moonshadow]]
+- [[Specimen - 88]]
 
 ## Enemies

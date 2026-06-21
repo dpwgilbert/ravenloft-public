@@ -45,7 +45,7 @@ allies:
   - Zavran Moonshadow
 obsidianUIMode: preview
 image: ClaireIchAlErRoar.jpeg
-token: token-ClaireIchAl-ErRoar.png
+token: token-ClaireIchAlErRoar.png
 ---
 
 ![[public/assets/players/claireichalerroar.jpeg|300]]
@@ -73,5 +73,7 @@ The following items belong to Claire Ich Al-ErRoar.
 - [[Fabulous Rick Landry]]
 - [[Kexik]]
 - [[Zavran Moonshadow]]
+- [[Jerry Rig]]
+- [[Specimen - 88]]
 
 ## Enemies

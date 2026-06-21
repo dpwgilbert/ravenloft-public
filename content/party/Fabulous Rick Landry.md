@@ -73,5 +73,7 @@ The following items belong to Fabulous Rick Landry.
 - [[Claire Ich Al-ErRoar]]
 - [[Kexik]]
 - [[Zavran Moonshadow]]
+- [[Jerry Rig]]
+- [[Specimen - 88]]
 
 ## Enemies

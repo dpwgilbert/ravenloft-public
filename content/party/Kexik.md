@@ -79,5 +79,7 @@ The following items belong to Kexik.
 - [[Claire Ich Al-ErRoar]]
 - [[Fabulous Rick Landry]]
 - [[Zavran Moonshadow]]
+- [[Jerry Rig]]
+- [[Specimen - 88]]
 
 ## Enemies
