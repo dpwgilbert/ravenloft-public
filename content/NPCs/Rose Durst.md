@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Rose
 title: Rosavalda (Rose) Durst
 created: 2026-06-16T00:23:15.825-04:00
-modified: 2026-06-16T08:35:19.347-04:00
-published: 2026-06-16T08:35:19.347-04:00
+modified: 2026-06-30T08:00:45.850-04:00
+published: 2026-06-30T08:00:45.850-04:00
 tags:
   - NPC
 ---

@@ -2,6 +2,7 @@
 publish: true
 aliases:
   - MGG
+  - Rick
 title: Fabulous Rick Landry
 created: 2026-05-22T09:55:52.186-04:00
 modified: 2026-06-02T03:32:29.179-04:00

@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Strahd
 title: Strahd Von Zarovich
 created: 2026-06-16T00:25:45.753-04:00
-modified: 2026-06-19T08:54:12.931-04:00
-published: 2026-06-19T08:54:12.931-04:00
+modified: 2026-06-30T08:01:17.386-04:00
+published: 2026-06-30T08:01:17.386-04:00
 tags:
   - NPC
 ---

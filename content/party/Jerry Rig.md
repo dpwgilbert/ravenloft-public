@@ -2,10 +2,11 @@
 publish: true
 aliases:
   - Paul
+  - Jerry
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-06-21T15:44:44.307-04:00
-published: 2026-06-21T15:44:44.307-04:00
+modified: 2026-06-30T08:01:52.036-04:00
+published: 2026-06-30T08:01:52.036-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png

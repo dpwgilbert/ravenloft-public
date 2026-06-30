@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Walter
 title: Walter Durst
 created: 2026-06-16T08:35:11.324-04:00
-modified: 2026-06-19T08:55:33.708-04:00
-published: 2026-06-19T08:55:33.708-04:00
+modified: 2026-06-30T08:01:06.263-04:00
+published: 2026-06-30T08:01:06.263-04:00
 tags:
   - NPC
 ---
