@@ -60,6 +60,10 @@ Over time. as his reputation grew, more and more of the noble houses of Calimpor
 
 To keep the monastery and it's inhabitants safe, Kexik decided to embark on a holy quest to learn more about his ancestry, and to teach others about the legendary Djinn of his homeland. Bidding farewell to the only home he had ever known, Kexik booked passage on a ship headed north. After several weeks, with his purse slowly running dry, Kexik made landfall in the town of Daggerford, where he now finds himself wondering if this journey was a mistake, or if he will ever be able to learn about his past while teaching others about the Djinn of his homeland.
 
+### Phobia
+
+Arachnophobia (Spiders)
+
 # Inventory
 
 The following items belong to Kexik.

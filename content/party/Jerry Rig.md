@@ -5,8 +5,8 @@ aliases:
   - Jerry
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-06-30T08:01:52.036-04:00
-published: 2026-06-30T08:01:52.036-04:00
+modified: 2026-06-30T12:56:38.905-04:00
+published: 2026-06-30T12:56:38.905-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png
@@ -59,6 +59,10 @@ Vowing he would put his knowledge to use, and, Jerry set out to find a way to br
 In his travels, Jerry happened upon a performance so powerful, he knew it would work, so he has been following the [[FMPc|troupe]] of the [[Fabulous Rick Landry]], in order to "Borrow" some of the equipment for his purposes.
 
 During his studies, though, a mysterious moment occurred, as a fateful encounter left Jerry with a source of power that seems to hold power over life and death itself. Is this the key to it all?
+
+### Phobia
+
+Acrophobia (Heights)
 
 # Inventory
 

@@ -51,6 +51,10 @@ As a product of grotesque experiments, 88 has no memory of his past and is seeki
 
 All that is certain is the answers lie somewhere in Borovia. After being cast aside as a failed result survival became the primary focus running in whatever wild packs he could, for a time.
 
+### Phobia
+
+Claustrophobia (Confined Spaces)
+
 # Inventory
 
 The following items belong to Specimen - 88.

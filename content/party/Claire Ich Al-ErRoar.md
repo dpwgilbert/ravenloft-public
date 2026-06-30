@@ -53,7 +53,11 @@ token: token-ClaireIchAlErRoar.png
 
 # Description
 
-This is the persons description.
+A Tiefling cleric whose true divine gift was not healing, but promotion.
+
+### Phobia
+
+Astraphobia (Thunderstorms)
 
 # Inventory
 

@@ -53,7 +53,11 @@ token: token-FabulousRickLandry.png
 
 # Description
 
-This is the persons description.
+A young Gnomish bard with few coin to his name, but a wardrobe worth more than most farmlands.
+
+### Phobia
+
+Mysophobia (Dirt/Germs)
 
 # Inventory
 

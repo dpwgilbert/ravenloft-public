@@ -55,6 +55,10 @@ token: token-ZavanMoonshadow.png
 
 A middle aged Rimekin wizard known locally for flashy illusions and complete disregard for common sense.
 
+### Phobia
+
+Aphenphosmphobia (Being Touched)
+
 # Inventory
 
 The following items belong to Zavran Moonshadow.
