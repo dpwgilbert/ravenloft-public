@@ -2,7 +2,7 @@
 publish: true
 title: House Rules
 created: 2026-04-20
-modified: 2026-06-29T17:32:15.817-04:00
+modified: 2026-07-14T17:22:08.305-04:00
 published: 2026-04-20
 tags:
   - journal
@@ -32,32 +32,7 @@ I would suggest adding a Pouch to your inventory and naming it: "✨ Effects ✨
 
 If there are any items that you might need that aren't included, please let me know and I'll create them.
 
-# Character Creation
-
-## Initial Stats
-
-Rolling for stats:
-
-- Best 3 of 4d6 for an attribute
-- Best 6 of 7 for a group
-- Better of 2 groups for final result
-
-At the DMs discretion, cripplingly bad stats can be replaced with a standard point buy.
-Any backup characters (should they be required) have the choice of using the same stats as the recently deceased or may be set using point buy.
-
-## Background
-
-Try and pick a background that fits the setting. Any source is allowed.
-
-If taking the Haunted One (5e) background from CoS, select one of the following Origin feats (whichever best fits your backstory) to supplement the background:
-
-- Alert
-- Skilled
-- Tough
-- I Hid from the Terror (CbT)
-- I Survived to Tell the Tale (CbT)
-
-## Phobias
+# Phobias
 
 Curse of Strahd is a gothic horror campaign. And what would a horror themed game be without fear?
 
@@ -87,6 +62,70 @@ If you think a certain phobia would be particularly difficult to portray or if y
 | 18  | Pedophobia       | Children               |
 | 19  | Pryophobia       | Fire                   |
 | 20  | Zoophobia        | Animals                |
+
+## Roleplaying Phobias
+
+If you want to add combat mechanics to help roleplay your character's phobia, feel free to use either of these options in the game.
+
+> [!note]
+> The aim of these rules are to aid in roleplay, not put your character at an unwanted disadvantage in combat. As such, they are _entirely optional_.
+
+When faced with a trigger for your phobia, roll a d20.
+
+- Initial roll is a DC15 save
+- On a success, the DC for your next check is reduced by 1.
+- When your DC reaches 0, you permanently overcome your phobia.
+
+### Option 1: Act with Trepidation
+
+#### On a Failure
+
+- Make the attack at disadvantage
+
+#### On a Success
+
+- Make the attack normally
+- The DC for your next check is reduced by 1.
+
+### Option 2: Afraid to Act
+
+#### On a Failure
+
+- Make no attack
+
+#### On a Success
+
+- Make the attack at disadvantage
+- The DC for your next check is reduced by 1.
+- When your DC reaches 10, you [[#Option 1 Act with Trepidation|Act with Trepidation]].
+
+> [!tip]
+> Ranged attacks may be exempt at the players' discretion. Perhaps the player is afraid to approach, but has sufficient courage to attack from afar.
+
+# Character Creation
+
+## Initial Stats
+
+Rolling for stats:
+
+- Best 3 of 4d6 for an attribute
+- Best 6 of 7 for a group
+- Better of 2 groups for final result
+
+At the DMs discretion, cripplingly bad stats can be replaced with a standard point buy.
+Any backup characters (should they be required) have the choice of using the same stats as the recently deceased or may be set using point buy.
+
+## Background
+
+Try and pick a background that fits the setting. Any source is allowed.
+
+If taking the Haunted One (5e) background from CoS, select one of the following Origin feats (whichever best fits your backstory) to supplement the background:
+
+- Alert
+- Skilled
+- Tough
+- I Hid from the Terror (CbT)
+- I Survived to Tell the Tale (CbT)
 
 # Banned Spells
 
