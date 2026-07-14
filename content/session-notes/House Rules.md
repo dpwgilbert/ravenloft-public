@@ -2,7 +2,7 @@
 publish: true
 title: House Rules
 created: 2026-04-20
-modified: 2026-07-14T17:22:08.305-04:00
+modified: 2026-07-14T18:01:11.054-04:00
 published: 2026-04-20
 tags:
   - journal
@@ -68,7 +68,7 @@ If you think a certain phobia would be particularly difficult to portray or if y
 If you want to add combat mechanics to help roleplay your character's phobia, feel free to use either of these options in the game.
 
 > [!note]
-> The aim of these rules are to aid in roleplay, not put your character at an unwanted disadvantage in combat. As such, they are _entirely optional_.
+> The aim of these rules is to aid in roleplay, not put your character at an unwanted disadvantage in combat. As such, they are _entirely optional_.
 
 When faced with a trigger for your phobia, roll a d20.
 
@@ -85,7 +85,6 @@ When faced with a trigger for your phobia, roll a d20.
 #### On a Success
 
 - Make the attack normally
-- The DC for your next check is reduced by 1.
 
 ### Option 2: Afraid to Act
 
@@ -96,7 +95,6 @@ When faced with a trigger for your phobia, roll a d20.
 #### On a Success
 
 - Make the attack at disadvantage
-- The DC for your next check is reduced by 1.
 - When your DC reaches 10, you [[#Option 1 Act with Trepidation|Act with Trepidation]].
 
 > [!tip]
