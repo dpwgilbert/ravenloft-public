@@ -43,7 +43,7 @@ image: Specimen-88.jpeg
 token: token-Specimen-88.png
 ---
 
-![[public/assets/players/specimen-88.jpeg|400]]
+![[assets/players/specimen-88.jpeg|400]]
 
 # Description
 

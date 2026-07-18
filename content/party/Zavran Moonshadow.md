@@ -49,7 +49,7 @@ image: Zavran.png
 token: token-ZavanMoonshadow.png
 ---
 
-![[public/assets/players/zavran.png|400]]
+![[assets/players/zavran.png|400]]
 
 # Description
 

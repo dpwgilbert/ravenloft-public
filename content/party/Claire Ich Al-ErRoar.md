@@ -49,7 +49,7 @@ image: ClaireIchAlErRoar.jpeg
 token: token-ClaireIchAlErRoar.png
 ---
 
-![[public/assets/players/claireichalerroar.jpeg|300]]
+![[assets/players/ClaireIchAlErRoar.jpeg|300]]
 
 # Description
 

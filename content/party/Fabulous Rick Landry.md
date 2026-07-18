@@ -49,7 +49,7 @@ image: FabulousRickLandry.png
 token: token-FabulousRickLandry.png
 ---
 
-![[public/assets/players/fabulousricklandry.png|400]]
+![[assets/players/fabulousricklandry.png|400]]
 
 # Description
 

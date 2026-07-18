@@ -48,7 +48,7 @@ image: Kexik.jpg
 token: token-Kexik.png
 ---
 
-![[public/assets/players/kexik.jpg|400]]
+![[assets/players/Kexik.jpg|400]]
 
 # Description
 
