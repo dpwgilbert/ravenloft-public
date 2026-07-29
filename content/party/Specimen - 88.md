@@ -2,6 +2,7 @@
 publish: true
 aliases:
   - Blake
+  - "88"
 title: Specimen - 88
 created: 2026-05-29T08:51:00.328-04:00
 modified: 2026-06-02T03:32:50.125-04:00
@@ -54,16 +55,6 @@ All that is certain is the answers lie somewhere in Borovia. After being cast as
 ### Phobia
 
 Claustrophobia (Confined Spaces)
-
-# Inventory
-
-The following items belong to Specimen - 88.
-
-# Connections
-
-## Groups
-
-## Quests
 
 # Relationships
 

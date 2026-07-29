@@ -59,17 +59,17 @@ A Tiefling cleric whose true divine gift was not healing, but promotion.
 
 Astraphobia (Thunderstorms)
 
-# Inventory
+## A Path Chosen
 
-The following items belong to Claire Ich Al-ErRoar.
+Weary and tired, Claire ruminates on the events just past. So many things came true! She can't contain her excitement!!! And a new silver mace to swing, how lovely! It's so shiny and reflective and NEW!!!
 
-# Connections
+Not to mention her dream came true! The house actually sank, how exciting! She is so happy that we are now in a town where we can rest so she can sleep and dream again, who knows what she will see next!
 
-## Groups
+Headed to her free bedroom (best day ever!) she climbs into bed with her mace and longingly looks into her reflection. As she doses off, images of the house sinking returns... but she stays at the edge of the hole, something still calls to her... she looks over the edge to see a raging maelstrom of energy, flashing all the colours she has ever seen.  She kneels down and reaches down, realizing it is much closer than it seems... as she touches it, everything goes black.
 
-- [[FMPc]]
+Claire cries out in joyous laughter, "Amazing!!! Do it again!" she says.
 
-## Quests
+**_"AS YOU WISH, MY CHILD!"_** A voice in the darkness replies. **_"DOOM SHALL FOREVER FOLLOW YOU."_**
 
 # Relationships
 

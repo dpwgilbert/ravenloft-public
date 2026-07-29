@@ -5,8 +5,8 @@ aliases:
   - Jerry
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-06-30T12:56:38.905-04:00
-published: 2026-06-30T12:56:38.905-04:00
+modified: 2026-07-28T23:18:28.422-04:00
+published: 2026-07-28T23:18:28.422-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png
@@ -64,17 +64,19 @@ During his studies, though, a mysterious moment occurred, as a fateful encounter
 
 Acrophobia (Heights)
 
-# Inventory
+## A Path Chosen
 
-The following items belong to Jerry Rig.
+Jerry originally hit the road after the traumatic loss of his best friend, his dog Greavard. Looking deep into the depths of less savory tomes and pouring over taboo magic, Jerry couldn't find what he needed until a mysterious individual left him with a relic tied to the very essences of life and death.
 
-# Connections
+Using his mechanical knowledge, Jerry thought up a way to home this objects power to bring back his best friend. With the tomb stone urn of his pal in tow, Jerry went off in search of a power source.
 
-## Groups
+Upon a weary night amidst the search, he stumbled upon the fabulous crew setting up for a show, and saw that their equipment might be the ticket. He followed for a while looking for an opportunity to tap into it to power his machine.
 
-- [[FMPc]]
+Fast forward to the night in the barn where [[Zavran Moonshadow|Zavran]] busted him by the equipment, Jerry found himself sucked into the crazy house of death with new compatriots and, the knowledge of life after death and most of all... A dragonborn ally that could blast electricity itself! The perfect power source.
 
-## Quests
+After being brought into the fold, Jerry managed to set up a set of wires to tap into the cracks of lightning being spewed as a result of [[Kexik]]'s nightmares, Jerry finally did it! He powered his life battery!
+
+Realizing the irony of tapping a paladin to raise the dead, and feeling indebted to the crew Jerry has vowed that he and his newly reanimated best bud Greavard will fight for Short Supply to the bitter end.
 
 # Relationships
 
