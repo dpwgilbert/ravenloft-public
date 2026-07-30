@@ -71,6 +71,8 @@ Claire cries out in joyous laughter, "Amazing!!! Do it again!" she says.
 
 **_"AS YOU WISH, MY CHILD!"_** A voice in the darkness replies. **_"DOOM SHALL FOREVER FOLLOW YOU."_**
 
+Claire has chosen to become a harbinger of the [Apocalypse](https://www.dndbeyond.com/classes/2190877-cleric#ApocalypseDomain)
+
 # Relationships
 
 ## Allies

@@ -74,7 +74,7 @@ In his dream, Kexik breathes deeply. A sense of righteous fury begins to roil in
 
 Slowly, Kexik opens his eyes. He is no longer asleep, but lays in his bed, breathing slowly and steadily. The sheets lay on the floor, tossed aside during his horrific nightmare. Glancing around, Kexik can see a single ray of moonlight shining through the window of his room. Rising slowly, he crosses the room to stand in the pale moonlight. Grasping the amulet around his neck, Kexik closes his eyes and begins to whisper a silent prayer to his ancestors. The heavy sense of dread he felt in his nightmare slowly slips away, leaving him with a renewed sense of purpose. Kexik swears an Oath to his ancestors and on his soul that he will defend those who cannot defend themselves. He will wreak havoc on those who would pray upon the innocent. But most importantly, he will stop at nothing to lay low the undead scourge of this realm. 
 
-Thus Kexik has taken his Oath of Zeal.
+Thus Kexik has taken his [Oath of Zeal](https://www.dndbeyond.com/sources/dnd/ghpg/chapter-2-classes-subclasses#OathofZeal).
 
 # Relationships
 

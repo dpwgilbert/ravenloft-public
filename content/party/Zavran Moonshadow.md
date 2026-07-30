@@ -88,6 +88,8 @@ Zavran pulled his cowl low over his face, shading his eyes in deep, dramatic sha
 
 "The night is young," Zavran muttered, his voice a gravelly whisper to the dark room. "And this city... needs a hero."
 
+Zavran has chosen to become an [Origami Mage](https://www.dndbeyond.com/sources/dnd/ottg/player-options#WizardOrigamiMage)
+
 # Relationships
 
 ## Allies

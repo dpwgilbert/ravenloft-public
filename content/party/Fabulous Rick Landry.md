@@ -72,7 +72,7 @@ In the dark corridors of that cursed mansion, while [[Specimen - 88|88]] broke d
 
 If the multiverse was going to try to kill "Fabulous" Rick Landry, it was going to have to negotiate first.
 
-He leaned back, resting his boots on an empty chair, a slow, dazzling smirk returning to his face. Songs of grand heroics were fine for romantic fools, but true power? True power lay in supply chains, contracts, valuation, and knowing precisely what a man—or a dark lord—would pay to get what they wanted. He wouldn't just be a bard strumming tunes for copper; he would master the School of Mercantile. He would trade in favors, leverage, fine goods, and ironclad bargains.
+He leaned back, resting his boots on an empty chair, a slow, dazzling smirk returning to his face. Songs of grand heroics were fine for romantic fools, but true power? True power lay in supply chains, contracts, valuation, and knowing precisely what a man—or a dark lord—would pay to get what they wanted. He wouldn't just be a bard strumming tunes for copper; he would master the [School of Mercantile](https://www.dndbeyond.com/classes/1-bard#CollegeofMercantile). He would trade in favors, leverage, fine goods, and ironclad bargains.
 
 "Jerry," Rick said, sliding the silver coin across the table toward the artificer. "Find out what metal that ghost’s pocket watch was made of. If we’re going back into the dark, darling, we’re at least making a profit."
 
