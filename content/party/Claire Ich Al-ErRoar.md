@@ -12,11 +12,12 @@ tags:
 socialImage: claireichalerroar.jpeg
 Player: Al
 Role: Player
-Class:
-  - Cleric
 Race:
   - Tiefling
-level: 1
+Class:
+  - Cleric
+Subclass: Apocalypse Domain
+level: 3
 hp: 11
 max_hp: 11
 ac: 15

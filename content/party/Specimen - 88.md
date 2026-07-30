@@ -12,10 +12,11 @@ tags:
 socialImage: Specimen-88.jpeg
 Player: Blake
 Role: Player
-Class:
-  - Barbarian
 Race:
   - Goliath
+Class:
+  - Barbarian
+Subclass: Path of the Beast
 level: 1
 hp: 14
 max_hp: 14

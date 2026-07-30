@@ -1,9 +1,11 @@
 ---
 publish: true
+aliases:
+  - Short Supply
 title: Short Supply
 created: 2026-06-04T15:06:29.555-04:00
-modified: 2026-07-30T08:03:33.753-04:00
-published: 2026-07-30T08:03:33.753-04:00
+modified: 2026-07-30T13:45:52.097-04:00
+published: 2026-07-30T13:45:52.097-04:00
 banner: content/assets/banners/group-of-characters-standing-by-a-camp-fire-image_2874370.png
 banner-display: cover
 banner-height: 350
@@ -43,23 +45,22 @@ views:
         - Status != "Inactive"
     order:
       - file.name
-      - Player
-      - level
-      - Class
       - char_race
-      - pasperc
+      - Class
+      - Subclass
       - Resistances
-      - char_phobia
+      - pasperc
       - darkvision
+      - char_phobia
     sort:
-      - property: level
+      - property: file.name
         direction: ASC
     columnSize:
       file.name: 167
-      note.level: 101
       note.Class: 93
-      note.pasperc: 159
-      note.char_phobia: 284
+      note.Resistances: 137
+      note.pasperc: 203
       note.darkvision: 168
+      note.char_phobia: 284
 
 ```

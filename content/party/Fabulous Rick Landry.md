@@ -12,11 +12,12 @@ tags:
 socialImage: FabulousRickLandry.png
 Player: MGG
 Role: Player
-Class:
-  - Bard
 Race:
   - Gnome
-level: 1
+Class:
+  - Bard
+Subclass: College of Mercantile
+level: 3
 hp: 9
 max_hp: 9
 ac: 13

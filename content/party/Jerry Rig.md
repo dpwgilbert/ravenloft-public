@@ -5,18 +5,19 @@ aliases:
   - Jerry
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-07-30T07:46:52.878-04:00
-published: 2026-07-30T07:46:52.878-04:00
+modified: 2026-07-30T13:41:46.451-04:00
+published: 2026-07-30T13:41:46.451-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png
 Player: Paul
 Role: Player
-Class:
-  - Artificer
 Race:
   - Gnome
-level: 1
+Class:
+  - Artificer
+Subclass: Reanimator
+level: 3
 hp: 11
 max_hp: 11
 ac: 13
@@ -76,7 +77,7 @@ Fast forward to the night in the barn where [[Zavran Moonshadow|Zavran]] busted 
 
 After being brought into the fold, Jerry managed to set up a set of wires to tap into the cracks of lightning being spewed as a result of [[Kexik]]'s nightmares, Jerry finally did it! He powered his life battery!
 
-Realizing the irony of tapping a paladin to raise the dead, and feeling indebted to the crew Jerry has vowed that he and his newly reanimated best bud Greavard will fight for Short Supply to the bitter end.
+Realizing the irony of tapping a paladin to raise the dead, and feeling indebted to the crew Jerry has vowed that he and his newly reanimated best bud Greavard will fight for [[party/index|Short Supply]] to the bitter end.
 
 Jerry has chosen to become a [Reanimator](https://www.dndbeyond.com/classes/2656866-artificer#Reanimator)
 

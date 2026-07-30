@@ -11,11 +11,12 @@ tags:
 socialImage: Kexik.jpg
 Player: Janes
 Role: Player
-Class:
-  - Paladin
 Race:
   - Dragonborn
-level: 1
+Class:
+  - Paladin
+Subclass: Oath of Zeal
+level: 3
 hp: 13
 max_hp: 13
 ac: 18

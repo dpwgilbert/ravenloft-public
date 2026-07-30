@@ -12,10 +12,11 @@ tags:
 socialImage: Zavran.png
 Player: Dave
 Role: Player
-Class:
-  - Wizard
 Race:
   - Rimekin
+Class:
+  - Wizard
+Subclass: Origami Mage
 level: 1
 hp: 9
 max_hp: 9
