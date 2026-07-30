@@ -1,9 +1,9 @@
 ---
 publish: true
-title: Short Notice
+title: Short Supply
 created: 2026-06-04T15:06:29.555-04:00
-modified: 2026-06-04T16:38:59.900-04:00
-published: 2026-06-04T16:38:59.900-04:00
+modified: 2026-07-30T08:03:33.753-04:00
+published: 2026-07-30T08:03:33.753-04:00
 banner: content/assets/banners/group-of-characters-standing-by-a-camp-fire-image_2874370.png
 banner-display: cover
 banner-height: 350
