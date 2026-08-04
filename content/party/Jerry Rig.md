@@ -5,8 +5,8 @@ aliases:
   - Jerry
 title: Jerry Rig
 created: 2026-06-02T03:32:44.301-04:00
-modified: 2026-07-30T13:41:46.451-04:00
-published: 2026-07-30T13:41:46.451-04:00
+modified: 2026-08-03T22:21:20.711-04:00
+published: 2026-08-03T22:21:20.711-04:00
 tags:
   - Category/Player
 socialImage: JerryRig.png
@@ -51,7 +51,7 @@ token: token-JerryRig.png
 
 # Description
 
-Jerry was once a very middling tinkerer from the Forest gnome guild, working on what was once an idea of using electricity to power gadgetry, rather than the typical magical infusion. With his most loyal companion, his dog Greavard, always by his side, he would test out different inventions to prove his theories, though, with no real renown to his discoveries.
+Jerry was once a very middling tinkerer from the Forest gnome guild, working on what was once an idea of using electricity to power gadgetry, rather than the typical magical infusion. With his most loyal companion, his dog [[Greavard]], always by his side, he would test out different inventions to prove his theories, though, with no real renown to his discoveries.
 
 One terrible day, though, Jerry was attempting to try out a new flying machine. With Side car attached, Jerry hit the skies with his best pal Greavard, but disaster struck as the flying machine malfunctioned due to magical interference. Plummeting from the sky, Jerry's 'chute opened, allowing him to get out safely, but to his absolute horror, Greavards chute was caught in a branch, torn, and he fell to his end. As a result, Jerry is now terrified of leaving the ground, due to losing the only one he loved.
 
@@ -77,7 +77,7 @@ Fast forward to the night in the barn where [[Zavran Moonshadow|Zavran]] busted 
 
 After being brought into the fold, Jerry managed to set up a set of wires to tap into the cracks of lightning being spewed as a result of [[Kexik]]'s nightmares, Jerry finally did it! He powered his life battery!
 
-Realizing the irony of tapping a paladin to raise the dead, and feeling indebted to the crew Jerry has vowed that he and his newly reanimated best bud Greavard will fight for [[party/index|Short Supply]] to the bitter end.
+Realizing the irony of tapping a paladin to raise the dead, and feeling indebted to the crew Jerry has vowed that he and his newly reanimated best bud [[Greavard]] will fight for [[party/index|Short Supply]] to the bitter end.
 
 Jerry has chosen to become a [Reanimator](https://www.dndbeyond.com/classes/2656866-artificer#Reanimator)
 

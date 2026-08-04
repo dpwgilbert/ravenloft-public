@@ -2,7 +2,7 @@
 publish: true
 title: House Rules
 created: 2026-04-20
-modified: 2026-07-14T18:01:11.054-04:00
+modified: 2026-08-03T22:23:03.772-04:00
 published: 2026-04-20
 tags:
   - journal
@@ -14,6 +14,7 @@ date: 2026-04-20
 - Drinking a healing potion as an action applies the maximum possible healing.
 - Crying is a free action
 - If rolling for hit points when levelling up, you can re-roll on the _first_ 1.
+- Death saving throws are known only to the DM (Use **/sr d20** from within Roll20)
 
 # Homebrew Spell Effects
 
